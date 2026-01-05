@@ -29,7 +29,8 @@ This project consists of **three role-based dashboards** designed for different 
 **Focus:** Customer behavior, payment patterns & risk analysis
 
 ### Customer Payment Risk Analysis
-![Customer Dashboard](screenshots/customer_dashboard.png)
+<img width="1180" height="654" alt="customer png" src="https://github.com/user-attachments/assets/e72b0239-f45f-44cc-96e9-99d058a3a990" />
+
 
 ---
 
@@ -37,7 +38,8 @@ This project consists of **three role-based dashboards** designed for different 
 **Focus:** Stock levels, inventory value & movement
 
 ### Inventory Analysis
-![Inventory Dashboard](screenshots/inventory_dashboard.png)
+<img width="1183" height="664" alt="inventory png" src="https://github.com/user-attachments/assets/3793c15a-ee25-4773-9be9-78fcdb550a16" />
+
 
 ---
 
@@ -54,8 +56,5 @@ This project consists of **three role-based dashboards** designed for different 
 - Tracked slow-moving inventory blocking working capital
 - Enabled management-level decisions using KPI dashboards
 
----
 
-## 📁 Project Structure
 
-![image alt](https://github.com/Yasmin11-t/metal_hardware_business_analysis/tree/16c0301b41ca9020c5206ba53ac4a2e5f6127d3f/screenshots)
