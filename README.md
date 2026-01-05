@@ -10,36 +10,49 @@ Built using **Power BI** and **SQL**.
 
 ---
 
-Dashboards Overview
+## 📊 Dashboards Overview
 
 This project consists of **three role-based dashboards** designed for different business stakeholders.
 
 ---
 
- Admin Dashboard
-Focus: Overall business performance & decision-making KPIs
+## 🧑‍💼 Admin Dashboard
+**Focus:** Overall business performance & decision-making KPIs
 
- Business Overview
-![Business Overview](screenshots/dashboard_overview.png)
-
- Sales & Profit Analysis
-![Sales Profit](screenshots/sales_profit_analysis.png)
+### Business Overview
+![Admin Dashboard](screenshots/admin_dashboard.png)
 
 ---
 
- Customer Dashboard
-Focus: Customer behavior, payment patterns & risk analysis
+## 👥 Customer Dashboard
+**Focus:** Customer behavior, payment patterns & risk analysis
 
-Customer Payment Risk Analysis
-![Customer Risk](screenshots/customer_risk_analysis.png)
+### Customer Payment Risk Analysis
+![Customer Dashboard](screenshots/customer_dashboard.png)
 
 ---
 
- Inventory Dashboard
-Focus: Stock levels, inventory value & movement
+## 📦 Inventory Dashboard
+**Focus:** Stock levels, inventory value & movement
 
- Inventory Analysis
-![Inventory](screenshots/inventory_dashboard.png)
+### Inventory Analysis
+![Inventory Dashboard](screenshots/inventory_dashboard.png)
 
+---
 
+## 🛠 Tools & Technologies
+- Power BI (DAX, Data Modeling, KPI Dashboards)
+- SQL (Joins, CTEs, Window Functions)
+- Excel (Data Cleaning, Validation)
 
+---
+
+## 🔍 Key Business Insights
+- Identified high-risk customers impacting cash flow
+- Highlighted low-margin products affecting profitability
+- Tracked slow-moving inventory blocking working capital
+- Enabled management-level decisions using KPI dashboards
+
+---
+
+## 📁 Project Structure
