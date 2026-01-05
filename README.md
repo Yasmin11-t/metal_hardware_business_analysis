@@ -20,7 +20,8 @@ This project consists of **three role-based dashboards** designed for different 
 **Focus:** Overall business performance & decision-making KPIs
 
 ### Business Overview
-![Admin Dashboard](screenshots/admin_dashboard.png)
+<img src="https://github.com/user-attachments/assets/8bfc6814-79e2-403b-89ee-a0872b2ec2af" />
+
 
 ---
 
