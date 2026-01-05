@@ -57,3 +57,5 @@ This project consists of **three role-based dashboards** designed for different 
 ---
 
 ## 📁 Project Structure
+
+![image alt](https://github.com/Yasmin11-t/metal_hardware_business_analysis/tree/16c0301b41ca9020c5206ba53ac4a2e5f6127d3f/screenshots)
